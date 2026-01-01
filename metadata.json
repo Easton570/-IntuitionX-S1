@@ -1,0 +1,5 @@
+{
+  "name": "CineMind AI",
+  "description": "An intelligent video companion that structures medium-to-long videos into semantic segments and provides context-aware AI chat interaction for deep understanding.",
+  "requestFramePermissions": []
+}
